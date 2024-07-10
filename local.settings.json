@@ -1,11 +1,11 @@
 {
   "IsEncrypted": false,
   "Values": {
-  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mockudacity2;AccountKey=yoU/2IFPHCG8XhKD6wd8HEaUo0n2YEQdp11ZeW46nUA2flNR1jsJnpxPH8xlfdBDRJMmsZGm+Y0i+AStl/mhnw==;EndpointSuffix=core.windows.net",
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=haipmstorage;AccountKey=sO7TJsGua12mF2E1rgcbGNGW1VPv7KNmE9ywPP23oWjY0/0AZbrRogBUk7F0a7IIEECn2Ht2QzL7+ASty2Dg+g==;EndpointSuffix=core.windows.net",
   "FUNCTIONS_WORKER_RUNTIME": "python",
   "FUNCTIONS_EXTENSION_VERSION": "~4",
-  "MyDbConnection": "mongodb://mockudacitycosmos:WUKCwCvICA2lGqOZuO0hNChLJW1q6YPLWaQXEIsJhDP7ythtkzlVRjNpiJYH3zTEh1QhE2cHDNEFACDbWoqthw==@mockudacitycosmos.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@mockudacitycosmos@",
-  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=mockudacity2;AccountKey=/hsFPV83r8KhDQN48Co7KJxJ9iWiO3ApWr4GqBGQSU5larYn48O/w+64vVGpE8Ola4Scn1jjYFC7+ASt9EsMBQ==;EndpointSuffix=core.windows.net",
+  "HaiPMNeighborApp": "mongodb://haipmcosmos:4P9eYja26U7b9p7RtAZJ0YcSCRaE5otMb0qVIPB7k3BcxRcqIPiISTcDgBJdbmc8y2fSrhr8ml2HACDbYy4Zmg==@haipmcosmos.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@haipmcosmos@",
+  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=haipmstorage;AccountKey=sO7TJsGua12mF2E1rgcbGNGW1VPv7KNmE9ywPP23oWjY0/0AZbrRogBUk7F0a7IIEECn2Ht2QzL7+ASty2Dg+g==;EndpointSuffix=core.windows.net",
   "WEBSITE_CONTENTSHARE":"mockudacity9073"
   }
   }

@@ -11,7 +11,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
     if id:
         try:
-            url = os.environ["MyDbConnection"]
+            url = os.environ["HaiPMNeighborApp"]
             client = pymongo.MongoClient(url)
             database = client['haipmneighhborapp']
             collection = database['posts']
