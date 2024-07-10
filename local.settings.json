@@ -1,9 +1,11 @@
 {
-  "IsEncrypted": true,
+  "IsEncrypted": false,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
-  },
-  "ConnectionStrings": {},
-
-  "AzureWebJobsStorage": ""
-}
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mockudacity2;AccountKey=yoU/2IFPHCG8XhKD6wd8HEaUo0n2YEQdp11ZeW46nUA2flNR1jsJnpxPH8xlfdBDRJMmsZGm+Y0i+AStl/mhnw==;EndpointSuffix=core.windows.net",
+  "FUNCTIONS_WORKER_RUNTIME": "python",
+  "FUNCTIONS_EXTENSION_VERSION": "~4",
+  "MyDbConnection": "mongodb://mockudacitycosmos:WUKCwCvICA2lGqOZuO0hNChLJW1q6YPLWaQXEIsJhDP7ythtkzlVRjNpiJYH3zTEh1QhE2cHDNEFACDbWoqthw==@mockudacitycosmos.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@mockudacitycosmos@",
+  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=mockudacity2;AccountKey=/hsFPV83r8KhDQN48Co7KJxJ9iWiO3ApWr4GqBGQSU5larYn48O/w+64vVGpE8Ola4Scn1jjYFC7+ASt9EsMBQ==;EndpointSuffix=core.windows.net",
+  "WEBSITE_CONTENTSHARE":"mockudacity9073"
+  }
+  }
